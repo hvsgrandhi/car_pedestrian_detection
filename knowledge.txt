@@ -1,0 +1,7 @@
+Step 1: install opencv using command- pip install opencv-python
+
+Step 2: use the video to detect the cars and pedestrians
+
+Step 3: Run the python file by- python car_pedestrian_detection.py
+
+NOTE: This algorithm is not that accurate, May work in some videos(high quality) only, with low noise in it. May produce wrong results as well. Therefore use code on your RISK!!
